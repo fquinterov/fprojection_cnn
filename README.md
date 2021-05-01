@@ -1,1 +1,1 @@
-# frinjeprojectioncnn
+# Frinje Projection CNN
