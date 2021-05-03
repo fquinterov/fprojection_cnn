@@ -1,1 +1,1 @@
-# Frinje Projection CNN
+# Fringe Projection CNN
